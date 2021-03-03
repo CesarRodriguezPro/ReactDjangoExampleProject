@@ -1,0 +1,15 @@
+ApiHelper/networkHelper.py
+.idea/
+venv/
+*/node_modules/
+*.pyc
+.vs
+.vscode
+DjangoEnv
+db.sqlite3
+.idea
+apiKey.js
+.DS_Store
+*.pdf
+*.xlsx
+*.xls
